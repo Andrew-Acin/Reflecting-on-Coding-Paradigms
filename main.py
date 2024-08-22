@@ -44,7 +44,7 @@ print(anakins_pod.max_speed)
 anakins_pod.boost()
 print(anakins_pod.max_speed)
 
-third_pod = SebulbasPod(500, 'perfect', 500)
+third_pod = SebulbasPod(500, 'perfect', 400)
 print(third_pod.condition)
 third_pod.flame_jet()
 print(third_pod.condition)
